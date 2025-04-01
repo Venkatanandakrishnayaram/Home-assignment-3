@@ -1,8 +1,10 @@
-*Autoencoders and RNN Implementation*
+**Autoencoders and RNN Implementation**
+
 CRN23848 Neural Network Deep Learning Home Assignment 3 Student Information
 
 Name: Venkata nanda krishna yaram 700765514
-*Project Overview*
+
+**Project Overview**
 
 This repository contains implementations of various deep learning models using TensorFlow and Keras:
 
@@ -16,7 +18,7 @@ Sentiment Analysis with RNN - Classifies IMDB reviews as positive or negative.
 
 Each model is implemented as a separate Python script.
 
-Q1: Implementing a Basic Autoencoder
+**Q1: Implementing a Basic Autoencoder**
 
 Description:
 
@@ -36,7 +38,7 @@ Loss Function: Binary Cross-Entropy.
 
 Evaluation: Compares original vs. reconstructed images.
 
-Q2: Implementing a Denoising Autoencoder
+**Q2: Implementing a Denoising Autoencoder**
 
 Description:
 
@@ -54,7 +56,7 @@ Training: The model learns to remove noise.
 
 Comparison: Visualization of noisy vs. denoised images.
 
-Q3: Implementing an RNN for Text Generation
+**Q3: Implementing an RNN for Text Generation**
 
 Description:
 
@@ -74,7 +76,7 @@ Training: Model learns text structure and patterns.
 
 Text Generation: Sampling characters with different temperature values.
 
-Q4: Sentiment Classification Using RNN
+**Q4: Sentiment Classification Using RNN**
 
 Description:
 
