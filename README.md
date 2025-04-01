@@ -1,6 +1,10 @@
 **Autoencoders and RNN Implementation**
 
-CRN23848 Neural Network Deep Learning Home Assignment 3 Student Information
+CRN23848 Neural Network Deep Learning 
+
+**Home Assignment 3** 
+
+Student Information
 
 Name: Venkata nanda krishna yaram 700765514
 
